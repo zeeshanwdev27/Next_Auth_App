@@ -1,7 +1,3 @@
-Watched Tutorial to Complete Crediantials NextAuth : Crash course on Next Auth or Authjs
-
-
-
 Packages I Install For This Project:
 
 1. npm install next-auth
