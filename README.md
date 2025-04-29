@@ -22,6 +22,6 @@ GOOGLE_CLIENT_SECRET=
 
 
 
-Fix this Issues:
+Fix these Issues:
 1. When submit Signup crediantials, and goes to OTP page in url my email password is Visible, use Session instead to fix this
 2. When Signup/Signin with Google, My User Data didnt Save in Database only crediantials User data save for Now
